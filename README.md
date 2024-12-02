@@ -2,7 +2,7 @@
 
 ## Задание 1
 
-https://github.com/xxKroliKxx/sdvps-homeworks-8-01/blob/main/README.md
+https://github.com/xxKroliKxx/sdvps-homeworks-8-01/commit/cdddaa3fa408511e690cab015e82b001d9b9bf62
 
 ## Задание 2
 
